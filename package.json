@@ -27,7 +27,7 @@
     "MIT"
   ],
   "dependencies": {
-    "ember-template-compiler": "1.9.0-alpha"
+    "ember-template-compiler": "1.9.1"
   },
   "peerDependencies": {
     "karma": ">=0.9"
